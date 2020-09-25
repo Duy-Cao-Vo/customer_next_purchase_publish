@@ -158,3 +158,4 @@ ml_now_20200506.csv
 !/.ipynb_checkpoints/
 #!/.ipynb_checkpoints/
 !.idea/
+*.h5
